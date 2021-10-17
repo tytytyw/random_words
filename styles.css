@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+    color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+}
+
+#skip {
+    padding: 2px 4px;
+    border: 1px solid gray;
+    cursor: pointer;
+    background-color: rgb(87, 85, 85);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+#time {
+    outline: none;
+    border: 1px solid gray;
+    cursor: pointer;
+    background-color: rgb(87, 85, 85);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    color: #f0f0f0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30vh;
+}
+
+.wrap {
+    text-align: center;
+}
+
+#text {
+    font-size: 10vw;
+}
