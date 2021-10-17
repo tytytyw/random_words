@@ -41,4 +41,5 @@ header {
 
 #text {
     font-size: 10vw;
+    word-break: break-all;
 }
